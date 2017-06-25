@@ -106,6 +106,7 @@
 				TargetAttributes = {
 					C88BADDC1EFFF01E005CDD1C = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = QZNZDCDCM2;
 						ProvisioningStyle = Automatic;
 					};
 					C88BADE01EFFF01E005CDD1C = {
@@ -276,6 +277,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = QZNZDCDCM2;
 				INFOPLIST_FILE = SampleSticker/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = CodeAMore.SampleSticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -286,6 +288,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				DEVELOPMENT_TEAM = QZNZDCDCM2;
 				INFOPLIST_FILE = SampleSticker/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = CodeAMore.SampleSticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
